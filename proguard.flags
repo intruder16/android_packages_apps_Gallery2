@@ -1,3 +1,6 @@
+# Fix build for our hacks
+-ignorewarnings
+
 # Disable the warnings of using dynamic method call in common library.
 -dontnote com.android.gallery3d.common.*
 
